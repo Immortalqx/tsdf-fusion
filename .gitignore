@@ -1,0 +1,5 @@
+.idea/*
+build/*
+demo
+tsdf.bin
+tsdf.ply
